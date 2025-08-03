@@ -142,7 +142,7 @@ export default function AboutSection() {
                 }}
               >
                 <img 
-                  src="/images/tcc-concept-signage-vertical.png"
+                  src="images/tcc-concept-signage-vertical.png"
                   alt="Turkey Creek Cycles Expert Mechanic"
                   className="w-full h-auto object-cover"
                 />

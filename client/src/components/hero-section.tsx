@@ -14,10 +14,10 @@ export default function HeroSection() {
 
   // Background carousel images
   const backgroundImages = [
-    "/images/hero-1.jpg",
-    "/images/hero-2.jpg", 
-    "/images/hero-3.jpg",
-    "/images/concept-bike-lift.jpg"
+    "images/hero-1.jpg",
+    "images/hero-2.jpg", 
+    "images/hero-3.jpg",
+    "images/builds/cta_concept-bike-lift.jpg"
   ];
 
   const [currentImageIndex, setCurrentImageIndex] = useState(0);

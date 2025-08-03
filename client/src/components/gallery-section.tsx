@@ -4,32 +4,32 @@ import { motion } from "framer-motion";
 export default function GallerySection() {
   const galleryItems = [
     {
-      image: "/images/builds/cta_patriot-chopper.png",
+      image: "images/builds/cta_patriot-chopper.png",
       title: "CUSTOM CHOPPER",
       description: "Vintage inspired build"
     },
     {
-      image: "/images/builds/cta_v-twin-moto.png",
+      image: "images/builds/cta_v-twin-moto.png",
       title: "ENGINE REBUILD",
       description: "Complete restoration"
     },
     {
-      image: "/images/builds/cta_tcc-knucklehead.png",
+      image: "images/builds/cta_tcc-knucklehead.png",
       title: "VINTAGE RESTORATION",
       description: "Classic Harley revival"
     },
     {
-      image: "/images/builds/cta_tcc-black-street-glide.png",
+      image: "images/builds/cta_tcc-black-street-glide.png",
       title: "STREET BAGGER",
       description: "Extended touring setup"
     },
     {
-      image: "/images/builds/cta_tcc-frame-weld.png",
+      image: "images/builds/cta_tcc-frame-weld.png",
       title: "FABRICATION WORK",
       description: "Custom metalwork"
     },
     {
-      image: "/images/builds/cta_tcc-performance.png",
+      image: "images/builds/cta_tcc-performance.png",
       title: "PERFORMANCE BUILD",
       description: "Power and style"
     }
@@ -92,7 +92,7 @@ export default function GallerySection() {
             }}
           >
             <img 
-              src="/images/builds/tcc-bagger-white-4.jpg"
+              src="images/builds/tcc-bagger-white-4.jpg"
               alt="Featured Custom Road Glide Build"
               className="w-full h-96 md:h-[500px] object-cover gallery-vignette"
             />

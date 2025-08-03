@@ -34,7 +34,7 @@ export default function Navigation() {
               className="flex items-center group cursor-pointer"
             >
               <div className="flex-shrink-0 relative">
-                <img src="/images/logo_tcc-primary.png" alt="Turkey Creek Cycles" className="h-40 w-auto filter drop-shadow-lg group-hover:drop-shadow-xl transition-all" />
+                <img src="images/logo_tcc-primary.png" alt="Turkey Creek Cycles" className="h-40 w-auto filter drop-shadow-lg group-hover:drop-shadow-xl transition-all" />
                 <div className="absolute -bottom-1 left-0 w-full h-0.5 bg-tcc-orange transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left"></div>
               </div>
             </button>
@@ -119,7 +119,7 @@ export default function Navigation() {
           <div className="fixed top-0 right-0 h-full w-80 bg-tcc-dark-gray border-l-4 border-tcc-orange shadow-2xl">
             {/* Mobile header */}
             <div className="flex items-center justify-between p-6 border-b border-steel/30">
-              <img src="/images/logo_tcc-primary.png" alt="TCC Logo" className="h-10 w-auto" />
+              <img src="images/logo_tcc-primary.png" alt="TCC Logo" className="h-10 w-auto" />
               <button
                 onClick={() => setMobileMenuOpen(false)}
                 className="p-2 text-chrome hover:text-tcc-orange transition-colors border border-steel rounded"

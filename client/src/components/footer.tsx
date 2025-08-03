@@ -49,7 +49,7 @@ export default function Footer() {
                 clipPath: 'polygon(20px 0%, 100% 0%, calc(100% - 20px) 100%, 0% 100%)'
               }}
             >
-              <img src="/images/logo_tcc-primary.png" alt="Turkey Creek Cycles" className="h-auto w-80" />
+              <img src="images/logo_tcc-primary.png" alt="Turkey Creek Cycles" className="h-auto w-80" />
             </div>
             
             <p className="text-gray-400 mb-6 max-w-md font-inter leading-relaxed">
