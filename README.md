@@ -65,7 +65,7 @@ pnpm install
 
 ```bash
 # Start the development server
-pnpm dev
+pnpm run dev
 ```
 
 The application will be available at `http://localhost:5173`
@@ -74,10 +74,10 @@ The application will be available at `http://localhost:5173`
 
 ```bash
 # Build the application
-pnpm build
+pnpm run build
 
 # Preview the production build
-pnpm preview
+pnpm run preview
 ```
 
 ## 🚀 Deployment
@@ -86,7 +86,7 @@ This project is configured for deployment to GitHub Pages:
 
 ```bash
 # Deploy to GitHub Pages
-pnpm deploy
+pnpm run deploy
 ```
 
 The site is automatically deployed to: https://kiernan-dev.github.io/tcc-react-legend/
