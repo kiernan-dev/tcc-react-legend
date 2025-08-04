@@ -66,7 +66,9 @@ export default function Navigation() {
             {/* CTA Buttons with extreme styling */}
             <div className="hidden md:flex items-center space-x-3">
               <a
-                href="#"
+                href="https://kiernan-dev.github.io/tcc-hub/tcc-swag-shop.html"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="group relative bg-tcc-orange hover:bg-tcc-orange-bright text-tcc-black px-6 py-3 font-oswald font-bold text-sm transition-all duration-300 overflow-hidden transform hover:scale-105"
                 style={{
                   clipPath: 'polygon(8px 0%, 100% 0%, calc(100% - 8px) 100%, 0% 100%)'
@@ -79,7 +81,9 @@ export default function Navigation() {
                 <div className="absolute inset-0 flame-gradient opacity-0 group-hover:opacity-30 transition-opacity"></div>
               </a>
               <a
-                href="#"
+                href="https://kiernan-dev.github.io/tcc-hub/tcc-vtwin-blog.html"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="group relative border-2 border-chrome hover:border-tcc-orange text-chrome hover:text-tcc-orange px-6 py-3 font-oswald font-bold text-sm transition-all duration-300 backdrop-blur-gritty transform hover:scale-105"
                 style={{
                   clipPath: 'polygon(0% 0%, calc(100% - 8px) 0%, 100% 100%, 8px 100%)'
@@ -150,6 +154,8 @@ export default function Navigation() {
             <div className="p-6 space-y-4 border-t border-steel/30">
               <a
                 href="#"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="block bg-tcc-orange hover:bg-tcc-orange-bright text-tcc-black px-6 py-4 font-oswald font-bold text-center transition-all transform hover:scale-105"
                 style={{
                   clipPath: 'polygon(12px 0%, 100% 0%, calc(100% - 12px) 100%, 0% 100%)'
@@ -160,6 +166,8 @@ export default function Navigation() {
               </a>
               <a
                 href="#"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="block border-2 border-chrome hover:border-tcc-orange text-chrome hover:text-tcc-orange px-6 py-4 font-oswald font-bold text-center transition-all backdrop-blur-gritty transform hover:scale-105"
                 style={{
                   clipPath: 'polygon(0% 0%, calc(100% - 12px) 0%, 100% 100%, 12px 100%)'
