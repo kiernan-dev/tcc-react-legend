@@ -2,7 +2,7 @@
 
 A modern, responsive website for Turkey Creek Cycles, showcasing custom motorcycle builds, services, and company information.
 
-## 🏍️ About
+## About
 
 Turkey Creek Cycles is a custom motorcycle shop specializing in Harley-Davidson builds, performance upgrades, and custom fabrication. This website serves as their digital presence, featuring:
 
@@ -12,7 +12,11 @@ Turkey Creek Cycles is a custom motorcycle shop specializing in Harley-Davidson 
 - Interactive chatbot for customer inquiries
 - Contact information and location details
 
-## 🚀 Tech Stack
+## Preview
+
+- **Website**: [Turkey Creek Cycles](https://kiernan-dev.github.io/tcc-react-legend/)
+
+## Tech Stack
 
 - **Frontend**: React 18 + TypeScript
 - **Styling**: Tailwind CSS with custom animations
@@ -24,7 +28,7 @@ Turkey Creek Cycles is a custom motorcycle shop specializing in Harley-Davidson 
 - **Build Tool**: Vite
 - **Deployment**: GitHub Pages
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 tcc-react-legend/
@@ -43,7 +47,7 @@ tcc-react-legend/
 └── dist/                  # Build output
 ```
 
-## 🛠️ Development
+## Development
 
 ### Prerequisites
 
@@ -80,7 +84,7 @@ pnpm run build
 pnpm run preview
 ```
 
-## 🚀 Deployment
+## Deployment
 
 This project is configured for deployment to GitHub Pages:
 
@@ -91,7 +95,7 @@ pnpm run deploy
 
 The site is automatically deployed to: https://kiernan-dev.github.io/tcc-react-legend/
 
-## 📱 Features
+## Features
 
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices
 - **Interactive Gallery**: Showcase of custom motorcycle builds with detailed images
@@ -100,7 +104,7 @@ The site is automatically deployed to: https://kiernan-dev.github.io/tcc-react-l
 - **Performance Optimized**: Fast loading with modern web technologies
 - **SEO Friendly**: Proper meta tags and structured content
 
-## 🎨 Design System
+## Design System
 
 The website uses a custom design system based on:
 - **Colors**: Custom TCC brand colors with dark theme
@@ -108,14 +112,9 @@ The website uses a custom design system based on:
 - **Components**: Consistent UI components using Radix UI primitives
 - **Animations**: Smooth transitions and hover effects using Framer Motion
 
+## License
 
-## 📞 Contact
-
-For questions about this project or Turkey Creek Cycles:
-
-- **Website**: [Turkey Creek Cycles](https://kiernan-dev.github.io/tcc-react-legend/)
-- **Developer**: Kiernan Dev
-- **Repository**: [GitHub](https://github.com/kiernan-dev/tcc-react-legend)
+This project is private and proprietary to Turkey Creek Cycles.
 
 ---
 
